@@ -1,0 +1,45 @@
+Project title:
+Protein synthesis modeling with extended TASEP: a computational approach 
+to understand selective translation of transcripts with codon usage biases 
+through tRNA reprogramming by cells under stressed conditions. 
+Proof of concept in melanomas and osteoarthritis.
+
+Research interests:
+•	Computational biology, mechanistic and stochastic modeling
+•	Statistical physics (stochastic) model of protein translation by totally asymmetric simple exclusion process (TASEP)
+•	Bioinformatics
+•	Biostatistics, data mining and machine learning
+•	Molecular biology, biological chemistry, signaling cascades, omics (transcriptome, translatome and proteome)
+
+Project summary:
+Translation of mRNA into protein represents the final stage in gene expression 
+by which the transcribed mRNA is read by the ribosomal machinery, that translocates 
+along the open reading frame to interpret the encoded peptide sequence. The case has 
+been made that a high level of transcripts is not necessarily reflected in a high level 
+of proteins: the poor correlation between the transcriptome and the proteome can be 
+attributed to post-transcriptional regulatory layers involving tRNA modifications, of 
+which the so-called wobble base U34 tRNA reprogramming is of interest in the context 
+of stressed cells or in tumors. The modified or unmodified wobble base tRNA anticodon 
+pairing to codon both affects the translation elongation rate of a specific transcript 
+or selectively promote the expression levels of subsets of transcripts having specific 
+patterns in codon usage. The change in protein synthesis rate can lead to protein 
+misfolding and aggregation problems. In our research, we investigate the codon usage 
+pattern as a potential useful source of data mining in bioinformatics to infer phenotypes 
+from genomic sequences.  The general biology of the tRNA reprogramming is currently 
+poorly understood. Our project aims at extending a stochastic model of protein 
+translation called TASEP (totally asymmetric simple exclusion process) taking into 
+account tRNA reprogramming. The purpose is to help better understand  experimental 
+results collected jointly such as RNA-Seq, Ribo-Seq, ribosome occupancy and proteome 
+levels in cancer research and in osteoarthritis research where cells are subjected to 
+targeted therapy or are chemically or mechanically stressed. 
+
+Educational records
+•	Bio-engineer (AgroBio-tech) – campus Gembloux University of Liege
+•	Master in Physics – University of Liege
+•	Master in Statistics (specialization in bioinformatics) – Hasselt University
+Publications
+https://orbi.uliege.be/ph-search?uid=U179427
+Contacts
+marc.joiret@uliege.be
+links
+personal website:  http://www.marcjoiret.be
